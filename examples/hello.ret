@@ -1,0 +1,4 @@
+# RET example
+print "Hello from RET!"
+print "This same .ret source works with the Windows and Linux runtime."
+pause
